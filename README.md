@@ -46,7 +46,10 @@ Regular Mode Win Demonstration:
 
 
 
-https://user-images.githubusercontent.com/69439997/161369172-8f5f8e96-dac0-44b2-b0fd-0ab7ce814e05.mp4
+
+https://user-images.githubusercontent.com/69439997/161370522-2ac24b2a-1558-4eed-a6c5-6c5228b3328b.mp4
+
+
 
 
 
