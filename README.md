@@ -35,9 +35,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Regular Win Demo](https://s3.amazonaws.com/img0.recordit.co/S9IBIiaRn9.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1648877168&Signature=zWT0WQHVOHl4ns5CBfZLw6A3pZA%3D)
-![Fast Mode Win Demo](https://recordit.co/19lRM5Bb70)
-![Regular Loss and Fast Mode Loss Demo](https://recordit.co/X612KYvHuj)
+
+https://user-images.githubusercontent.com/69439997/161366350-37def6cf-f54f-4b19-9565-7cf1fdf717d7.mp4
+https://user-images.githubusercontent.com/69439997/161366352-e3cb3a86-8069-439b-ab26-e7698eb0baad.mp4
+https://user-images.githubusercontent.com/69439997/161366355-8f824cab-1078-465d-a96d-acba2cd91219.mp4
+
 
 
 ## Reflection Questions
@@ -59,9 +61,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 [My 5-minute Interview Recording](your-link-here)
 
-
-
-https://user-images.githubusercontent.com/69439997/161366298-e09ac020-071b-4417-882d-d9860b6ec959.mp4
 
 
 ## License
