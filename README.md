@@ -37,8 +37,11 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 https://user-images.githubusercontent.com/69439997/161366350-37def6cf-f54f-4b19-9565-7cf1fdf717d7.mp4
+
 https://user-images.githubusercontent.com/69439997/161366352-e3cb3a86-8069-439b-ab26-e7698eb0baad.mp4
+
 https://user-images.githubusercontent.com/69439997/161366355-8f824cab-1078-465d-a96d-acba2cd91219.mp4
+
 
 
 
