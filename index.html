@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      h1 {text-align: center;}
+      p {text-align: center;}
+      h2 {text-align: center;}
+      button {text-align: center;}
+      .center {
+        margin: 0;
+        position: absolute;
+        top: 65%;
+        left: 60%;
+        -ms-transform: translate(-60%, -60%);
+        transform: translate(-60%, -60%);
+        }
+      .buttonCenter {
+        margin: 0;
+        position: absolute;
+        top: 28%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        }
+    </style>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Light and Sound Memory Game</title>
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <h1>Light and Sound Memory Game!</h1>
+    <h2>
+        Repeat the pattern to win!
+    </h2>
+        <p>For a challenge, try Fast Mode!</p>
+    <div id="GameButtons" class="buttonCenter">
+      <button id="startBtn" onclick="startGame()">Start</button>
+      <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
+      <button id="diffBtn" onclick="fastMode()">Fast Mode</button>
+    </div>
+    <div id="gameButtonArea" class="center">
+        <button id="button1" onmousedown="startTone(1)" onmouseup="stopTone()" onclick="guess(1)"></button>
+        <button id="button2" onmousedown="startTone(2)" onmouseup="stopTone()" onclick="guess(2)"></button>
+        <button id="button3" onmousedown="startTone(3)" onmouseup="stopTone()" onclick="guess(3)"></button>
+        <button id="button4" onmousedown="startTone(4)" onmouseup="stopTone()" onclick="guess(4)"></button>
+      </div>
+  </body>
+</html>
