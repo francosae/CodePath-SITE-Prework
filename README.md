@@ -31,7 +31,6 @@ The following **additional** features are implemented:
 
 - [✓] Increased difficulty mode by making everything sped up (Fast Mode).
 - [✓] Button toggles the increased difficulty, and the appearance of the button is change to demonstrate when it is on or off.
-- 
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
