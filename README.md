@@ -44,7 +44,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 Regular Mode Win Demonstration:
 
-https://user-images.githubusercontent.com/69439997/161366350-37def6cf-f54f-4W19-9565-7cf1fdf717d7.mp4
+
+
+https://user-images.githubusercontent.com/69439997/161369172-8f5f8e96-dac0-44b2-b0fd-0ab7ce814e05.mp4
+
 
 
 Fast Mode Win Demonstration:
