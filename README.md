@@ -36,10 +36,14 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
+Regular Mode Win Demonstration:
+
 https://user-images.githubusercontent.com/69439997/161366350-37def6cf-f54f-4b19-9565-7cf1fdf717d7.mp4
 
+Fast Mode Win Demonstration:
 https://user-images.githubusercontent.com/69439997/161366352-e3cb3a86-8069-439b-ab26-e7698eb0baad.mp4
 
+Regular Mode Loss and Fast Mode Loss Demonstration:
 https://user-images.githubusercontent.com/69439997/161366355-8f824cab-1078-465d-a96d-acba2cd91219.mp4
 
 
@@ -47,13 +51,13 @@ https://user-images.githubusercontent.com/69439997/161366355-8f824cab-1078-465d-
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I used W3 Schools to look at the different names for CSS colors along with the W3 Schools page to center a div.]
+I used W3 Schools to look at the different names for CSS colors along with the W3 Schools page to center a div
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
