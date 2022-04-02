@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Regular Win Demo](https://recordit.co/S9IBIiaRn9)
+![Regular Win Demo](https://s3.amazonaws.com/img0.recordit.co/S9IBIiaRn9.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1648877168&Signature=zWT0WQHVOHl4ns5CBfZLw6A3pZA%3D)
 ![Fast Mode Win Demo](https://recordit.co/19lRM5Bb70)
 ![Regular Loss and Fast Mode Loss Demo](https://recordit.co/X612KYvHuj)
 
