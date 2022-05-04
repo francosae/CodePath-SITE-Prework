@@ -88,8 +88,6 @@ A very interesting addition would be to add music in the background that goes al
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://www.loom.com/share/aa869ebfa3f1416f838d13d44f1caa70)
-
 
 
 ## License
